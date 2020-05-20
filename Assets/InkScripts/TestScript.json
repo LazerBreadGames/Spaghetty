@@ -1,0 +1,1 @@
+﻿{"inkVersion":19,"root":[[{"#":"SHOW:Doug:happy:Right"},"^Doug:Hello, and welcome to <anim=fullshake>SPAGHETTY</anim>","\n",{"#":"FLIP:Doug"},"^Doug:...","\n",{"#":"ChangeBackground:Waves"},"^Doug:What a beautiful boat.","\n",{"#":"MOVE:Doug:Left:simple:0.5"},"^Doug:This is another dialog line!","\n",["done",{"#f":5,"#n":"g-0"}],null],"done",{"#f":1}],"listDefs":{}}
